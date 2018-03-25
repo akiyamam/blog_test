@@ -14,3 +14,7 @@ c &= d
 \end{aligned}
 $$
 のようにして書く．
+シュレディンガー方程式
+$$
+i\hbar {\frac {d}{dt}}|\psi (t)\rangle ={\hat {H}}|\psi (t)\rangle
+$$
